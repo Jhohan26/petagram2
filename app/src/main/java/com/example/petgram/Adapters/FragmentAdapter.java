@@ -1,4 +1,4 @@
-package com.dfuentes.petgram.Adapters;
+package com.example.petgram.Adapters;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

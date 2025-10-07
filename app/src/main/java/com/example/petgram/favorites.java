@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 
-import com.dfuentes.petgram.Adapters.MascotaAdaptador;
-import com.dfuentes.petgram.Pojo.Mascotas;
+import com.example.petgram.Adapters.MascotaAdaptador;
+import com.example.petgram.Pojo.Mascotas;
 
 import java.util.ArrayList;
 

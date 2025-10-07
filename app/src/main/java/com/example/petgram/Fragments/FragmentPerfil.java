@@ -1,4 +1,4 @@
-package com.dfuentes.petgram.Fragments;
+package com.example.petgram.Fragments;
 
 
 import android.os.Bundle;
@@ -12,10 +12,10 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.dfuentes.petgram.Adapters.MascotaAdaptador;
-import com.dfuentes.petgram.Adapters.PerfilAdaptador;
-import com.dfuentes.petgram.Pojo.Mascotas;
-import com.dfuentes.petgram.R;
+import com.example.petgram.Adapters.MascotaAdaptador;
+import com.example.petgram.Adapters.PerfilAdaptador;
+import com.example.petgram.Pojo.Mascotas;
+import com.example.petgram.R;
 import com.mikhaellopez.circularimageview.CircularImageView;
 
 import java.util.ArrayList;

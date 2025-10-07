@@ -1,4 +1,4 @@
-package com.dfuentes.petgram.Fragments;
+package com.example.petgram.Fragments;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.dfuentes.petgram.Adapters.MascotaAdaptador;
-import com.dfuentes.petgram.Pojo.Mascotas;
-import com.dfuentes.petgram.R;
+import com.example.petgram.Adapters.MascotaAdaptador;
+import com.example.petgram.Pojo.Mascotas;
+import com.example.petgram.R;
 
 import java.util.ArrayList;
 

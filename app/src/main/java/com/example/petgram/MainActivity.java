@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
@@ -12,10 +12,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.dfuentes.petgram.Adapters.FragmentAdapter;
-import com.dfuentes.petgram.Fragments.FragmentPerfil;
-import com.dfuentes.petgram.Fragments.RecyclerViewFragment;
-import com.dfuentes.petgram.Pojo.Mascotas;
+import com.example.petgram.Adapters.FragmentAdapter;
+import com.example.petgram.Fragments.FragmentPerfil;
+import com.example.petgram.Fragments.RecyclerViewFragment;
+import com.example.petgram.Pojo.Mascotas;
 
 import java.util.ArrayList;
 

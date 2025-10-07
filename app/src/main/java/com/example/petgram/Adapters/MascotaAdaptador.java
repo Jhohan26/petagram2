@@ -1,4 +1,4 @@
-package com.dfuentes.petgram.Adapters;
+package com.example.petgram.Adapters;
 
 import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
@@ -9,8 +9,8 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.dfuentes.petgram.Pojo.Mascotas;
-import com.dfuentes.petgram.R;
+import com.example.petgram.Pojo.Mascotas;
+import com.example.petgram.R;
 
 import java.util.ArrayList;
 
